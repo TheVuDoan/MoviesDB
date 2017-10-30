@@ -1,0 +1,95 @@
+.row-header {
+    margin: 0px auto;
+    padding: 0px auto;
+}
+
+.row-content {
+    margin: 0px auto;
+    padding: 50px 0px 50px 0px;
+    border-bottom: 1px ridge;
+    min-height: 400px;
+}
+
+.footer {
+    background-color: #C7CCDB;
+    margin: 0px auto;
+    padding: 20px 0px 20px 0px;
+    box-shadow: 0 0 3px #c4c4c4;
+}
+
+.jumbotron {
+    padding: 70px 30px 70px 30px;
+    margin: 0px auto;
+    background: #767B91;
+    color: floralwhite;
+    box-shadow: 0 0 3px #c4c4c4;
+}
+
+.address {
+    font-size: 80%;
+    margin: 0px;
+    color: #0f0f0f;
+}
+
+body {
+    background-color: #f7f7f7;
+    padding: 50px 0px 0px 0px;
+    z-index: 0;
+}
+
+.navbar-inverse {
+    background-color: #2A324B;
+}
+
+.carousel {
+    background: #E1E5EE;
+    box-shadow: 0 0 8px #c4c4c4;
+}
+
+.carousel-text {
+    color: #2A324B;
+    padding-left: 170px;
+}
+
+.carousel-item {
+    height: 300px;
+}
+
+.carousel-item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 300px;
+}
+
+.movie-rating {
+    position: absolute;
+    top: 10px;
+    left: 30px;
+    padding: 5px 10px 5px 10px;
+    background-color: #F2A541;
+    border-radius: 4px;
+}
+
+.movie-list {
+    padding: 3px;
+    background-color: white;
+    box-shadow: 0 0 8px #c4c4c4;
+    border-radius: 4px;
+}
+
+.category-title {
+    text-align: center;
+}
+
+.movie-name {
+    font-weight: 15px;
+}
+
+.extra-movie-info {
+    font-size: 14px;
+}
+
+.info-bold {
+    font-weight: bold;
+}
